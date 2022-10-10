@@ -1,0 +1,5 @@
+Stps to run the code
+1) Download the code from github
+2) open the code in Vscode
+3) in terminal write the command npm i (it will install the required packages)
+4)  start the server 
